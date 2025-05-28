@@ -23,6 +23,21 @@ target = 9
 result = two_sum(nums, target)
 print(result)  # Output: [0, 1]
 ```
+reverse_int Directory
+The reverse_int directory contains a simple Python script that reverses the digits of an integer and checks if the original number is a palindrome. A palindrome is a number that reads the same forwards and backwards.
+
+How it works:
+
+The user is prompted to enter an integer.
+The script reverses the digits of the given integer.
+It then checks if the original number and the reversed number are the same.
+If they are, it prints that the number is a palindrome; otherwise, it states that it is not.
+Example usage:
+
+Python
+# Run the script
+python reverse_int/reverse_int.py
+# Enter a number when prompted
 
 ## Installation
 
